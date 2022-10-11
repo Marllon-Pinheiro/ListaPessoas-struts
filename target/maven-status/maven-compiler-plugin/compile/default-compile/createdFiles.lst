@@ -1,0 +1,8 @@
+br\com\ebix\dao\PessoaDAO.class
+br\com\ebix\dao\MySQLDAO.class
+br\com\ebix\model\Pessoa.class
+br\com\ebix\action\CadastrarAction.class
+br\com\ebix\model\Caralho.class
+br\com\ebix\service\PessoaServiceFacade.class
+br\com\ebix\dao\main.class
+br\com\ebix\service\PessoaServiceFacadeImpl.class
